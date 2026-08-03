@@ -1,0 +1,98 @@
+# =============================================
+# Python AI/ML Project - .gitignore
+# =============================================
+
+# ---------- Virtual Environment ----------
+.venv/
+venv/
+ENV/
+env/
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+*.whl
+
+# ---------- Jupyter Notebook ----------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---------- Environment Variables ----------
+.env
+.env.local
+.env.*.local
+
+# ---------- IDE / Editor ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ---------- OS Generated ----------
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ---------- Data & Models ----------
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+
+# ---------- Large Files ----------
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+
+# ---------- Logs ----------
+*.log
+logs/
+
+# ---------- Coverage & Testing ----------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# ---------- Distribution ----------
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ---------- Misc ----------
+*.bak
+*.tmp
+*.temp
