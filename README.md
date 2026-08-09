@@ -51,8 +51,7 @@ python-ml_projects/
 │   └── checkpoints/           # Training checkpoints
 │
 ├── notebooks/                 # Jupyter Notebooks
-│   ├── python_basics/         # Python fundamentals
-│   ├── python_session/        # Python practice sessions
+│   ├── Python-Fundaments/     # Python fundamentals & practice
 │   ├── numpy/                 # NumPy tutorials
 │   ├── pandas/                # Pandas tutorials
 │   ├── matplotlib/            # Matplotlib visualizations

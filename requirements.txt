@@ -1,0 +1,20 @@
+# Core Data Science & ML Libraries
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities & File Support
+openpyxl
+python-dotenv
+
+# Interactive Development & Notebooks
+jupyterlab
+notebook
+ipykernel
