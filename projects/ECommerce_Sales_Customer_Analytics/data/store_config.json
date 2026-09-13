@@ -1,0 +1,22 @@
+{
+    "stores": {
+        "Store A": {
+            "location": "Lucknow",
+            "category": "Electronics"
+        },
+        "Store B": {
+            "location": "Delhi",
+            "category": "Clothing"
+        },
+        "Store C": {
+            "location": "Mumbai",
+            "category": "Grocery"
+        }
+    },
+    "categories": [
+        "Electronics",
+        "Clothing",
+        "Grocery",
+        "Furniture"
+    ]
+}
